@@ -1,0 +1,4 @@
+Đây là file mới khởi tạo 01
+git remote add temporary https://github.com/vominhmanh/git-practice-clone.git
+git branch -M main
+git push -u origin main
